@@ -1,4 +1,4 @@
-# Isar Local DB basic CRUD
+# Flutter Isar Local DB basic CRUD
  
 https://pub.dev/packages/isar
 
