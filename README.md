@@ -2,4 +2,4 @@
  
 https://pub.dev/packages/isar
 
-basic Create - Update - Delete - GetAll - GetSingle - Query 
+basic Create - Update - Delete - GetAll (Stream and normal) - Query 
