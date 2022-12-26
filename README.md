@@ -1,4 +1,4 @@
-# isardb_basic_crud
+# Isar Local DB basic CRUD
  
 https://pub.dev/packages/isar
 
